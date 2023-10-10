@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋,I'm Akshat😶‍🌫️
+I am a self-taught full-stack developer.
 # 💫 About Me:
 
 🔭 I’m currently working on:<br>Chat App using web Sockets<br><br>👯 I’m looking to collaborate on:<br> FullStack Projects<br><br>🌱 I’m currently learning:<br> NextJs and Web Sockets<br><br>💬 Ask me about:<br>JavaScript, React,NodeJS<br><br>⚡ Fun fact:<br>I love making podcasts.
@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 
-[![TechStack](https://skillicons.dev/icons?i=js,html,css,javascript,typescipt,react,tailwind,mongodb,nodejs,prisma,astro)]
+![TechStack](https://skillicons.dev/icons?i=js,html,css,javascript,typescript,react,tailwind,mongodb,nodejs,prisma,astro)
 
 # 📊 GitHub Stats:
 
