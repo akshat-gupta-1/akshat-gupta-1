@@ -1,5 +1,5 @@
 ## Hi there 👋,I'm Akshat😶‍🌫️
-I am a self-taught full-stack developer.
+I am a self-taught full-stack developer from India.
 # 💫 About Me:
 
 🔭 I’m currently working on:<br>Chat App using web Sockets<br><br>👯 I’m looking to collaborate on:<br> FullStack Projects<br><br>🌱 I’m currently learning:<br> NextJs and Web Sockets<br><br>💬 Ask me about:<br>JavaScript, React,NodeJS<br><br>⚡ Fun fact:<br>I love making podcasts.
